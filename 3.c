@@ -9,6 +9,6 @@ while (i<n){
 	printf("%d, ",i);
 	i=i*2+1;
 }
-printf("\n",);
+printf("\n");
 return 0;
 }
